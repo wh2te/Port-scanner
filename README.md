@@ -23,6 +23,7 @@ pkg upgrade
 pkg install python
 
 pkg install git
+
 Клонируйте репозиторий:
 
 git clone https://github.com/wh2te/port-scanner.py
